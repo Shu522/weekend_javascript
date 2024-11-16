@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.btn {
+  padding: 12px 35px;
+  border-radius: 50px;
+  border: none;
+  color: white;
+  font-size: 18px;
+}
+
+.seaBlue {
+  background-color: #2563eb;
+}
+
+.deepBlue {
+}
+
+.white {
+  background-color: white;
+}
