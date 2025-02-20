@@ -1,0 +1,28 @@
+section {
+  width: 100vw;
+  height: 100vh;
+}
+
+section:nth-child(1) {
+  background-color: skyblue;
+}
+
+section:nth-child(2) {
+  background-color: pink;
+}
+
+section:nth-child(3) {
+  background-color: green;
+}
+
+section:nth-child(4) {
+  background-color: orange;
+}
+
+.box {
+  transition: all 0.5s;
+  opacity: 0;
+  width: 300px;
+  height: 300px;
+  background-color: grey;
+}
